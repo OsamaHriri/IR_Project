@@ -5,3 +5,5 @@ In this project we are given an Exel file that contains half a million tweets an
 Python,
 Pyspark 3+,
 Ntlk 
+# Instructions
+You'll need to run the DataHandler Script in order to generate datasets for the ChartMaker
